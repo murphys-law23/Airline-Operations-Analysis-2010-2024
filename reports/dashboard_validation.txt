@@ -1,0 +1,4 @@
+PASS: JavaScript filter calculations reconciled with pandas for full period, 2024, 2024 ATL, and 2024 AA ATL.
+PASS: Map click, reset, map regions, invalid period, tabs and export handler.
+Method: Node.js with a minimal DOM stub. Full browser rendering was not validated. Static analytical PNG previews and Word document layouts were visually reviewed.
+Run: node tests/check_dashboard.cjs

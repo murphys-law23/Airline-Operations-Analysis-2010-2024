@@ -1,0 +1,9 @@
+[
+  "The analysis processes 93,900,879 flight records from 180 monthly source files into 253,181 analytical rows, covering 401 airports and 24 DOT carrier identities.",
+  "81.2% of eligible arrivals were on time; 18.8% were delayed by at least 15 minutes. Cancellations were 1.9% of scheduled flight records.",
+  "Delayed eligible arrivals averaged 62.6 minutes late. This excludes on-time, cancelled and diverted flights.",
+  "Reported traffic changed by -36.8% in 2020 versus 2019. In 2024, volume was -4.6% relative to 2019; the delay rate changed by +1.7 percentage points.",
+  "Late aircraft accounted for 39.5% of attributed delay minutes, the largest recorded category.",
+  "June had the highest pooled calendar-month delay rate (23.0%); November had the lowest (14.9%).",
+  "Among airports with at least 100,000 eligible arrivals across the full period, EWR had the highest delay rate (25.8%). Rankings are not adjusted for traffic mix."
+]

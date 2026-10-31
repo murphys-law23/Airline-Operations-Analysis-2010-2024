@@ -1,0 +1,23 @@
+AIRLINE OPERATIONS ANALYSIS 2010–2024
+
+Extract the ZIP and open dashboard/index.html in a browser. The report works offline.
+Use the year, carrier, airport and map-region filters and the four report tabs.
+The airport map supports tooltips and click-to-filter.
+
+Read docs/Project_Handbook.docx and docs/PowerBI_Build_Guide.docx.
+Upload the project contents to GitHub. README.md already includes dashboard previews.
+
+Rebuild from the included COMPLETE aggregated dataset (Python 3.11+):
+  python -m pip install -r requirements.txt
+  python python/run_all.py
+
+Rebuild from the original flight-level source files (several GB):
+  python python/ingest.py --workers 6
+  python python/run_all.py
+
+The source manifest records all 180 source files and original flight counts.
+The 1,000-row flight_sample.csv is for inspection only, not for analysis conclusions.
+
+Power BI: import queries, DAX, theme and build guide are included. No native PBIX
+is included, and Power BI Desktop execution is not verified. The completed
+interactive dashboard is HTML; PNGs are Python analytical previews.

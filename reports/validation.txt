@@ -1,0 +1,7 @@
+PASS: 180 monthly source files and source-flight totals reconciled.
+PASS: unique fact grain and unique dimension keys.
+PASS: additive measures are non-negative.
+PASS: severe <= delayed <= eligible.
+PASS: eligible + cancelled + diverted + unknown = scheduled flights.
+PASS: SQL annual/monthly/airport/carrier results match independent pandas aggregates to 1e-9.
+Map coverage: 398 / 401 airports.

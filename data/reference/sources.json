@@ -1,0 +1,20 @@
+[
+  {
+    "file": "airports.csv",
+    "url": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+    "retrieved": "2026-10-30",
+    "sha256": "423a70f3a3a6b849db1063a5558e47bbd4e715decb6071f1f80f413ab92a88ac"
+  },
+  {
+    "file": "countries.json",
+    "url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson",
+    "retrieved": "2026-10-30",
+    "sha256": "6866c877d39cba9c357620878839b336d569f8c662d3cfab4cb1dbe2d39c977f"
+  },
+  {
+    "file": "bts.html",
+    "url": "https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp",
+    "retrieved": "2026-10-30",
+    "sha256": "780a25ea52116fa8ec4c2b62da0965334822705503371ae19966659461822916"
+  }
+]
